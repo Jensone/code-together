@@ -1,4 +1,41 @@
-footer {
+.call_to_action{
+    display: grid;
+    grid-template-columns: repeat(3,30%);
+    gap: 3%;
+    background-color: #0e1729;
+    color: white;
+    text-align: center;
+    padding-left: 4rem;
+    
+
+}
+.butt{
+    background-color: #8b3dff;
+    color: white;
+    border-radius: 15px;
+    height: 3rem;
+    width: 12rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+
+}
+.two{
+    display: grid;
+    grid-template-columns: repeat(2,45%);
+}
+h2{
+    font-size: 2rem;
+    text-align: justify;
+}
+p{
+    font-size: small;
+    color: #596780;
+
+ footer {
     background-color: blueviolet;
     display: grid;
     grid-template-columns: repeat(5, 15rem);
