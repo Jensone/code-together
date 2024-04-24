@@ -1,6 +1,6 @@
 # Code Together
 
-Petit projet pour la prise en main de GIT et GitHub pour un travail collaboratif.
+Petit projet pour la prise en main de Git et GitHub pour un travail collaboratif.
 
 ## Objectifs
 
