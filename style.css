@@ -1,0 +1,22 @@
+nav{
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 8rem;
+}
+
+.btn{
+    background-color: blueviolet;
+}
+
+.sct{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 4rem;
+    width: 50%;
+}
+
+.sct a{
+    text-decoration: none;
+}
