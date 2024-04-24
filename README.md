@@ -11,41 +11,31 @@ S'exercer à travailler en équipe sur un projet commun en utilisant GIT et GitH
 Il y a 5 partie à coder pour réaliser une page HTML complète. Chaque personne dois coder la partie qui lui est attribué afin de la soumettre en `pull request` pour que le chef de projet puisse les fusionner (`merge`) dans la branche principale (`main`).
 
 
-### Partie 1
-
-**Navbar** :
+### Navbar
 
 Créer une barre de navigation à partir du modèle suivant : 
 
 ![avbar](./assets/navbar.png)
 
-### Partie 2
-
-**Hero** :
+### Hero
 
 Créer un hero (accroche) à partir du modèle suivant :
 
 ![Hero](./assets/hero.png)
 
-### Partie 3
-
-**Call to action** :
+### Call to action
 
 Créer un call to action à partir du modèle suivant :
 
 ![Call to action](./assets/call-to-action.png)
 
-### Partie 4
-
-**Formulaire newsletter**
+### Formulaire
 
 Créer un formulaire de newsletter à partir du modèle suivant :
 
 ![Formulaire newsletter](./assets/form.png)
 
-### Partie 5
-
-**Footer**
+### Footer
 
 Créer un footer à partir du modèle suivant :
 
