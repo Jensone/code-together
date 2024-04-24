@@ -20,3 +20,103 @@ nav{
 .sct a{
     text-decoration: none;
 }
+.call_to_action{
+    display: grid;
+    grid-template-columns: repeat(3,30%);
+    gap: 3%;
+    background-color: #0e1729;
+    color: white;
+    text-align: center;
+    padding-left: 4rem;
+    
+
+}
+.butt{
+    background-color: #8b3dff;
+    color: white;
+    border-radius: 15px;
+    height: 3rem;
+    width: 12rem;
+    text-align: center;
+    margin-right: 1rem;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+
+}
+.two{
+    display: grid;
+    grid-template-columns: repeat(2,45%);
+}
+h2{
+    font-size: 2rem;
+    text-align: justify;
+}
+p{
+    font-size: small;
+    color: #596780;
+}
+ footer {
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: repeat(5, 15rem);
+}
+
+body {
+
+    background-color: white;
+}
+
+.colonne1 {
+    background-color:aqua;
+}
+
+.colonne2 {
+    background-color:red ;
+}
+
+.colonne3 {
+    background-color: green;
+}
+
+.colonne4 {
+    background-color: brown;
+}
+
+.colonne5 {
+    background-color: yellow;
+}
+
+form{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+form h2{
+    font-size: 2.5rem;
+}
+form p{
+    font-size: 1.5rem;
+    color: #acb5c2;
+}
+form img{
+    width: 3rem;
+    height: 3rem;
+}
+form input{
+    width: 25rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+form button{
+    width: 10rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
