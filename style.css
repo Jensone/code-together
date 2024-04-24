@@ -1,0 +1,34 @@
+footer {
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: repeat(5, 15rem);
+}
+
+body {
+
+    background-color: white;
+}
+
+.colonne1 {
+    background-color:aqua;
+}
+
+.colonne2 {
+    background-color:red ;
+}
+
+.colonne3 {
+    background-color: green;
+}
+
+.colonne4 {
+    background-color: brown;
+}
+
+.colonne5 {
+    background-color: yellow;
+}
+
+div {
+
+}
